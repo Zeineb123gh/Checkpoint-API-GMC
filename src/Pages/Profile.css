@@ -1,0 +1,13 @@
+.iden {
+  text-align: center;
+  margin-top: 2%;
+  font-size: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(51, 90, 139);
+  text-decoration: underline;
+}
+.image {
+  display: flex;
+  align-content: center;
+  margin-left: 40%;
+}
